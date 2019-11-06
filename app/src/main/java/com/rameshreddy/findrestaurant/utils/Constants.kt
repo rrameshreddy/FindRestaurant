@@ -11,5 +11,6 @@ object Constants {
     const val NEXT_PAGE_TOKEN = "&next_page_token="
     const val PHOTO_URL="https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference="
     const val PHOTO_KEY="&key="
-    const val API_KEY="AIzaSyDUtWGsqk1tn9VeGbGnnb0ktjVho-xFIXk"
+    // Update API key
+    const val API_KEY="API_KEY"
 }
